@@ -1,5 +1,5 @@
 import React from 'react'
-import airbnbLogo from '../assets/airbnb-wordmark.svg'
+import airbnbLogo from '/images/airbnb-wordmark.svg'
 
 export default function Navbar() {
     return (
